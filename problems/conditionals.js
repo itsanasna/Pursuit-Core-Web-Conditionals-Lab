@@ -10,7 +10,7 @@ const isEqual = (a, b) => {
   } else {
     return false;
   }
-}
+} added this 
 
 /**
  * Takes in two numbers and returns the larger number
